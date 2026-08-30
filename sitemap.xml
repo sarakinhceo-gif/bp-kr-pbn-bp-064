@@ -50,4 +50,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://gangnam-web-review.pbn-builder.xyz/posts/myth-002-nyawgy.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
